@@ -1,0 +1,16 @@
+.autor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.8em;
+}
+
+.avatar{
+    height: 1em;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.login{
+    color: var(--cinza-claro);
+}

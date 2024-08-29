@@ -1,0 +1,22 @@
+.busca{
+    background-color: var(--verde-petroleo);
+    width: 100%;
+    margin: 0.5em;
+    padding: 0.5em;
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+    align-items: baseline;
+}
+
+.campo-busca{
+    background-color: var(--verde-petroleo);
+    color: var(--branco);
+    height: 1.5em;
+    width: 100%;
+    border: none;
+}
+
+.campo-busca:focus{
+    border: none;
+}

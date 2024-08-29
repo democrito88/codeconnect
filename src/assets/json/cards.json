@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "titulo": "Guilerme Silveira",
+        "texto": "Creative Leader, Alura's co-founder, professional magician",
+        "imagem": "https://github.com/guilhermesilveira.png",
+        "tags": 10,
+        "compartilhamentos": 2,
+        "comentarios": 3
+    },
+    {
+        "id": 2,
+        "titulo": "Demócrito d'Anunciação",
+        "texto": "Follow me on my github page: \"https://github.com/democrito88\".",
+        "imagem": "https://github.com/democrito88.png",
+        "tags": 2,
+        "compartilhamentos": 3,
+        "comentarios": 4
+    },
+    {
+        "id": 3,
+        "titulo": "Marco Barbosa",
+        "texto": "Marco -> Marquinho -> Kinho",
+        "imagem": "https://github.com/kinhoob.png",
+        "tags": 3,
+        "compartilhamentos": 4,
+        "comentarios": 5
+    },
+    {
+        "id": 4,
+        "titulo": "Paramore",
+        "texto": "Isn't it funny how this is actualy a real github account?",
+        "imagem": "https://github.com/paramore.png",
+        "tags": 4,
+        "compartilhamentos": 5,
+        "comentarios": 6
+    },
+    {
+        "id": 5,
+        "titulo": "iFood",
+        "texto": "Are hungry for some treats?",
+        "imagem": "https://github.com/ifood.png",
+        "tags": 5,
+        "compartilhamentos": 6,
+        "comentarios": 7
+    },
+    {
+        "id": 6,
+        "titulo": "Amazon",
+        "texto": "Everything from a to z",
+        "imagem": "https://github.com/aws.png",
+        "tags": 6,
+        "compartilhamentos": 7,
+        "comentarios": 8
+    },
+    {
+        "id": 7,
+        "titulo": "Cowboy Woody",
+        "texto": "There's a snake on my boot!",
+        "imagem": "https://github.com/woody.png",
+        "tags": 7,
+        "compartilhamentos": 8,
+        "comentarios": 9
+    }
+]

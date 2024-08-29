@@ -1,0 +1,22 @@
+.container-comentario{
+    width: 97.5%;
+    padding: 0.5em;
+    margin-bottom: 1em;;
+}
+.comentario{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.comentario-avatar{
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+}
+
+.botao-responder, .botao-responder:visited{
+    text-decoration: none;
+    color: var(--preto);
+}

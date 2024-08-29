@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "post_id": 1,
+        "author": "@philip",
+        "text": "Lorem Ipsum dolor sit amet...",
+        "avatar": "https://picsum.photos/20"
+    },
+    {
+        "id": 2,
+        "post_id": 1,
+        "author": "@julia",
+        "text": "Great post! Really enjoyed reading it.",
+        "avatar": "https://picsum.photos/21"
+    },
+    {
+        "id": 3,
+        "post_id": 2,
+        "author": "@mike",
+        "text": "I found this very informative, thanks!",
+        "avatar": "https://picsum.photos/22"
+    },
+    {
+        "id": 4,
+        "post_id": 2,
+        "author": "@susan",
+        "text": "I disagree with some points, but overall a good read.",
+        "avatar": "https://picsum.photos/23"
+    },
+    {
+        "id": 5,
+        "post_id": 3,
+        "author": "@alex",
+        "text": "This helped me understand the topic better, thanks!",
+        "avatar": "https://picsum.photos/24"
+    },
+    {
+        "id": 6,
+        "post_id": 3,
+        "author": "@emma",
+        "text": "Could you provide more examples in the future?",
+        "avatar": "https://picsum.photos/25"
+    },
+    {
+        "id": 7,
+        "post_id": 4,
+        "author": "@david",
+        "text": "Very well written, looking forward to more posts.",
+        "avatar": "https://picsum.photos/26"
+    },
+    {
+        "id": 8,
+        "post_id": 4,
+        "author": "@sophia",
+        "text": "I learned a lot from this article!",
+        "avatar": "https://picsum.photos/27"
+    },
+    {
+        "id": 9,
+        "post_id": 5,
+        "author": "@john",
+        "text": "Thanks for sharing your knowledge.",
+        "avatar": "https://picsum.photos/28"
+    },
+    {
+        "id": 10,
+        "post_id": 5,
+        "author": "@olivia",
+        "text": "Can you recommend further reading on this topic?",
+        "avatar": "https://picsum.photos/29"
+    },
+    {
+        "id": 11,
+        "post_id": 6,
+        "author": "@robert",
+        "text": "This was exactly what I was looking for, thanks!",
+        "avatar": "https://picsum.photos/30"
+    },
+    {
+        "id": 12,
+        "post_id": 6,
+        "author": "@isabella",
+        "text": "The examples were very helpful, thanks!",
+        "avatar": "https://picsum.photos/31"
+    },
+    {
+        "id": 13,
+        "post_id": 7,
+        "author": "@james",
+        "text": "I have a different perspective, but appreciate your insights.",
+        "avatar": "https://picsum.photos/32"
+    },
+    {
+        "id": 14,
+        "post_id": 7,
+        "author": "@mia",
+        "text": "Looking forward to your next post!",
+        "avatar": "https://picsum.photos/33"
+    },
+    {
+        "id": 15,
+        "post_id": 8,
+        "author": "@charles",
+        "text": "This article was very well structured.",
+        "avatar": "https://picsum.photos/34"
+    },
+    {
+        "id": 16,
+        "post_id": 8,
+        "author": "@amelia",
+        "text": "I appreciate the effort you put into this post.",
+        "avatar": "https://picsum.photos/35"
+    },
+    {
+        "id": 17,
+        "post_id": 9,
+        "author": "@daniel",
+        "text": "Very insightful, thank you.",
+        "avatar": "https://picsum.photos/36"
+    },
+    {
+        "id": 18,
+        "post_id": 9,
+        "author": "@charlotte",
+        "text": "I enjoyed this read, looking forward to more.",
+        "avatar": "https://picsum.photos/37"
+    },
+    {
+        "id": 19,
+        "post_id": 10,
+        "author": "@matthew",
+        "text": "Your writing style is very engaging.",
+        "avatar": "https://picsum.photos/38"
+    },
+    {
+        "id": 20,
+        "post_id": 10,
+        "author": "@ava",
+        "text": "Thank you for the detailed explanation.",
+        "avatar": "https://picsum.photos/39"
+    },
+    {
+        "id": 21,
+        "post_id": 1,
+        "author": "@chris",
+        "text": "This was very enlightening, thanks for sharing.",
+        "avatar": "https://picsum.photos/40"
+    }
+]

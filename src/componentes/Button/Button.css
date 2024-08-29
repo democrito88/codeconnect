@@ -1,0 +1,14 @@
+.button{
+    padding: 0.8em 1em;
+    color: var(--verde-destaque);
+    background-color: var(--verde-petroleo);
+    border: 1px var(--verde-destaque) solid;
+    border-radius: 6px;
+    width: 6em;
+}
+
+@media screen and (max-width: 720px) {
+    .button{
+        margin: auto;
+    }
+}

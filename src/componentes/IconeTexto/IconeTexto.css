@@ -1,0 +1,14 @@
+.icone-texto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.icone-pequeno{
+    font-size: 1em;
+}
+
+.icone-grande{
+    font-size: 2em;
+}

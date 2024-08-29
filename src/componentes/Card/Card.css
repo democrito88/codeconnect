@@ -1,0 +1,30 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.img-card-top{
+    border-radius: 6px 6px 0 0;
+    width: 100%;
+    top: 0;
+}
+
+.card-body{
+    border-radius: 0 0 6px 6px;
+    padding: 1.5em;
+    background-color: var(--verde-petroleo);
+}
+
+.card-body-footer{
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2em;
+}
+
+.card-icons{
+    display: flex;
+    justify-content: start;
+    gap: 0.5em;
+}

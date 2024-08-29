@@ -1,0 +1,22 @@
+.comentarios-container{
+    background-color: var(--cinza-medio);
+    color: var(--grafite);
+    padding: 0.5em;
+    margin: auto;
+
+    h3{
+        text-align: center;
+        margin-bottom: 1em;
+    }
+}
+
+.comentarios{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.comentarios hr{
+    color: var(--grafite);
+    border: 1px black solid;
+}
